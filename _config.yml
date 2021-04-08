@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이나희"
-  avatar           : # path of avatar image, e.g. "/assets/images/IMG_8486.png"
+  avatar           : "/assets/images/profile.png"
   bio              : "열심히 살고 있는 일개 학생"
   location         : "대한민국, 경기"
   email            : "nahee40317@gmail.com"
